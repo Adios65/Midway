@@ -5,13 +5,13 @@ Find a middle/in-between location between two locations on a map. Explore and sh
   src="/app/src/screenshots/Midway1.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; width: 300px">
+  style="margin: 0 auto; width: 300px">
 
 <img
   src="/app/src/screenshots/Midway2.jpg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="margin: 0 auto; max-width: 100px">
 
 <img
   src="/app/src/screenshots/Midway3.jpg"
