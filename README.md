@@ -4,7 +4,7 @@ Find a middle/in-between location between two locations on a map. Explore and sh
 <img
   src="/app/src/screenshots/Midway1.jpg"
   alt="Alt text"
-  style="border: 10px; margin: 0 auto; width: 300px">
+  style="align-self: center; margin: 0 auto; width: 300px">
 
 <img
   src="/app/src/screenshots/Midway2.jpg"
